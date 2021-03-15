@@ -1,21 +1,16 @@
 ---
 title: 叶夕青兮
 description: 生活就是一本书，一壶茶，一个阳光明媚的下午！
-<<<<<<< HEAD
-locale: SHIFT-M
-email: "m@shift-m.com"
-=======
-locale: SHIFT-M
-email: "m@shift-m.com"
->>>>>>> 176c76437464e90496fcc81d1ddb89c17f792b33
-url: "http://starry.github.io"
+locale: zh
+email: "zhangshiyu1992@hotmail.com"
+url: "https://erl.im"
 social:
-  github: "SHIFT-M"
+  github: "erlzhang"
 
 # Theme Settings
 logo: /img/logo.svg
 rss: "/feed.xml"
-theme: jekyll-theme-minimal
+theme: 'jekyll-theme-persephone'
 theme_setting:
   blog_page: "blog/index.md"
   about_page: "about.md"
