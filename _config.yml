@@ -10,7 +10,7 @@ social:
 # Theme Settings
 logo: /img/logo.svg
 rss: "/feed.xml"
-theme: 'jekyll-theme-persephone'
+theme: jekyll-theme-minimal
 theme_setting:
   blog_page: "blog/index.md"
   about_page: "about.md"
